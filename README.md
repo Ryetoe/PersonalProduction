@@ -1,5 +1,5 @@
 # PersonalProduction 🎯
-The Personal Focus App is designed to help me stay on task and manage your time effectively while working on schoolwork or other important tasks. With things such as tiktok slowly wittling our attention spans, I wanted to make a personal app to increase my productivity by creating simple features and employing various techniques to keep me and perhaps other people focused on their work. This is mostly created to be tailored specifically for my use and as a way to help practice some of things I have learned
+The Personal Focus App is designed to help me stay on task and manage my time effectively while working on schoolwork or other important tasks. With things such as TikTok slowly whittling our attention spans, I wanted to make a personal app to increase my productivity by creating simple features and employing various techniques to keep me and perhaps other people focused on their work. This is mostly created to be tailored specifically for my use and as a way to help practice some of the things I have learned
 
 ### 🔑 Basic Key Features  
 - Task Manager: Create and organize tasks by priority, due dates, or specific categories  
